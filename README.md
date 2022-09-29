@@ -1,6 +1,12 @@
 # desafiogo
 Aula Docker, desafio Go
 
-Docker Hub
 
-docker push lhoracio/desafiogo:tagname
+
+Baixar Imagem do Docker Hub :
+docker pull lhoracio/desafiogo
+
+
+Para executar a imagem :
+docker run lhoracio/desafiogo
+
